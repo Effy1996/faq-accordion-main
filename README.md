@@ -43,8 +43,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [ https://effy1996.github.io/faq-accordion-main/](https://your-solution-url.com)
-- Live Site URL: [ https://effy1996.github.io/faq-accordion-main/](https://your-live-site-url.com)
+- Solution URL: [ https://effy1996.github.io/faq-accordion-main/]([https://your-solution-url.com](https://effy1996.github.io/faq-accordion-main/))
+- Live Site URL: [ https://effy1996.github.io/faq-accordion-main/]([https://your-live-site-url.com](https://effy1996.github.io/faq-accordion-main/))
 
 ## My process
 
@@ -101,7 +101,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 ## Author
 
 - Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@Effy1996](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Effy1996](https://www.frontendmentor.io/profile/Effy1996)
 - Twitter - [@yourusername](https://www.twitter.com/yourusername)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
