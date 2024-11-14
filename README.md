@@ -43,8 +43,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [ https://effy1996.github.io/faq-accordion-main/]([https://your-solution-url.com](https://effy1996.github.io/faq-accordion-main/))
-- Live Site URL: [ https://effy1996.github.io/faq-accordion-main/]([https://your-live-site-url.com](https://effy1996.github.io/faq-accordion-main/))
+- Solution URL: [ https://effy1996.github.io/faq-accordion-main/](https://effy1996.github.io/faq-accordion-main/)
+- Live Site URL: [ https://effy1996.github.io/faq-accordion-main/](https://effy1996.github.io/faq-accordion-main/)
 
 ## My process
 
